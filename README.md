@@ -1,4 +1,3 @@
-@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Afifi El-Sayed</h1>
 <h3 align="center">Junior Embedded Software Engineer</h3>
 
